@@ -1,0 +1,14 @@
+.todo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .todo-list {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px; /* Adjust width as needed */
+  }
+  
